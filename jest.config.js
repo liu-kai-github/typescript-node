@@ -13,9 +13,6 @@ module.exports = {
     },
     testMatch: [
         '**/test/**/*.test.(ts|js)',
-        '**/*.test.(ts|js)'
-
     ],
-    modulePaths: ['src/'],
     testEnvironment: 'node'
 };
